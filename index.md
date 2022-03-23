@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Badminton
+In this website, we're gonna talk about the sport I like to play the most which is Badminton.
 
-You can use the [editor on GitHub](https://github.com/rGaor/rGaorica.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Basic rules in Badminton
+- The goal of the game is to hit the shuttlecock across the net using a racquet/racket.
+- Wait until your opponent is ready to serve.
+- You're not able to hit the shuttlecock twice.
+- You should have the proper equipments for Badminton.
+- You should wear an appropriate attire for Badminton.
+Those are just some of the rules in Badminton
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### History of Badminton
+It is derived directly from poona, and was played by the british army officers stationed in India. Back in 1870, it was brought to England. 
+In 1873, the duke of Beaufort introduced the sport at his country estate, from then it was called Badminton.
 
-### Markdown
+**Fun Fact**
+- Prakash Padukone - the father of Badminton, he was ranked No. 1 in 1890. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rGaor/rGaorica.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
