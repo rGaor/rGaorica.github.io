@@ -15,4 +15,3 @@ In 1873, the duke of Beaufort introduced the sport at his country estate, from t
 
 **Fun Fact**
 - Prakash Padukone - the father of Badminton, he was ranked No. 1 in 1890. 
-
